@@ -1,8 +1,6 @@
 Flask
 tensorflow
 tensorflow_hub
-tensorflow_text
-matplotlib
-datetime
-pandas
 numpy
+json
+time
