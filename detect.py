@@ -54,7 +54,7 @@ model.compile(
 
 
 # Restore the weights
-model.load_weights('Trained/Weights/Weights')
+model.load_weights('Weights')
 
 def call_model(text):
   # inputs = json.loads(text)
